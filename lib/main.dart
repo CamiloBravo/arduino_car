@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Bluetooth Buzzer',
+      title: 'Arduino Car',
       theme: ThemeData(
           colorScheme: ColorScheme.dark(
               secondary: Color(666666), primary: Color(0xFF075E54))),
